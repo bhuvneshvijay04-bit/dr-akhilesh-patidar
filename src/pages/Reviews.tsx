@@ -100,7 +100,7 @@ export default function Reviews() {
           <h2 className="text-3xl font-bold text-navy-900 mb-6">Share Your Experience</h2>
           <p className="text-slate-600 mb-10">Your feedback helps us improve our care and helps other patients find the right medical guidance.</p>
           <a 
-            href="https://search.google.com/local/writereview?placeid=ChIJo5C9QKxZyzsR1yq7HqkRk6M" 
+            href="https://search.google.com/local/writereview?placeid=ChIJcwv37T77YjkRn4sk5Nm6VmU" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center gap-2"
