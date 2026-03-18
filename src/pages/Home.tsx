@@ -83,10 +83,11 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
             {[
-              { label: 'MD Medicine', sub: 'Mumbai University – Internal Medicine Specialist', icon: Award },
+              { label: 'MD Internal Medicine', sub: 'Mumbai – GGMC and Sir JJ Groups of Hospital', icon: Award },
               { label: 'AFIC Certified', sub: 'Advanced Fellowship in Intensive Care', icon: ShieldCheck },
               { label: 'Critical Care Consultant', sub: 'Specialist in ICU & Emergency Management', icon: Activity },
               { label: '5.0 Patient Rating', sub: 'Trusted by Patients', icon: Star },
+              { label: 'Advanced Clinical Training', sub: 'JPNATC – AIIMS, New Delhi | P. D. Hinduja Hospital, Mumbai | Cooper Hospital, Mumbai | S. R. Mehta & Sir K. P. Cardiac Institute, Mumbai', icon: Building },
             ].map((item, i) => (
               <div key={i} className="flex flex-col items-center text-center group p-6 rounded-2xl hover:bg-slate-50 transition-all">
                 <div className="w-14 h-14 rounded-xl bg-navy-50 flex items-center justify-center text-navy-900 mb-4 group-hover:bg-navy-900 group-hover:text-white transition-all">
