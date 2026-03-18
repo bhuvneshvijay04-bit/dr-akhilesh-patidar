@@ -8,7 +8,7 @@ export function cn(...inputs: ClassValue[]) {
 export const CLINIC_INFO = {
   name: "Health Plus Clinic",
   doctor: "Dr. Akhilesh Patidar",
-  qualifications: "MBBS, MD Medicine(Mumbai University), AFIC",
+  qualifications: "MBBS, MD Medicine(Mumbai), AFIC",
   role: "Physician & Critical Care Consultant",
   hospital: "Consultant at Shalby Hospital",
   location: "Rau, Indore, Madhya Pradesh",
