@@ -50,8 +50,8 @@ export default function About() {
                       <Award className="text-navy-900" />
                     </div>
                     <div>
-                      <h4 className="font-bold text-navy-900">MD Medicine(Mumbai University)</h4>
-                      <p className="text-slate-600 text-sm">Mumbai University – Internal Medicine Specialist with advanced training.</p>
+                      <h4 className="font-bold text-navy-900">MD Medicine(Mumbai)</h4>
+                      <p className="text-slate-600 text-sm"> Internal Medicine Specialist with advanced training.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
