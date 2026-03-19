@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'motion/react';
-import { ArrowRight, Phone, MapPin, Calendar, Star, Award, ShieldCheck, Activity, Clock } from 'lucide-react';
+import { ArrowRight, Phone, MapPin, Calendar, Star, Award, ShieldCheck, Activity, Clock, Building } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { CLINIC_INFO, HOME_SERVICES, REVIEWS, FAQS, TRUST_SIGNALS, COMMON_CONDITIONS, HOSPITAL_INFO, GALLERY_IMAGES } from '../constants';
 import { CheckCircle2, Building2, Image as ImageIcon } from 'lucide-react';
