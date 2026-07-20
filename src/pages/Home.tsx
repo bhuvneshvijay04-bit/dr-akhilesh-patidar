@@ -399,7 +399,7 @@ export default function Home() {
                   <div className="shrink-0">
                     <img 
                       src={HOSPITAL_INFO.logo} 
-                      alt="Shalby Hospital Logo" 
+                      alt="Vishesh Jupiter Hospital Logo" 
                       className="h-[62px] sm:h-[73px] w-auto object-contain max-w-full bg-white/10 p-1 rounded-lg"
                       referrerPolicy="no-referrer"
                     />
@@ -411,7 +411,7 @@ export default function Home() {
                 <div className="flex gap-4">
                   <Clock className="text-slate-300 shrink-0 mt-1" size={20} />
                   <div>
-                    <h4 className="font-bold">Hospital Hours: 12:00 AM – 3:00 PM & 6:00 PM-8:00 PM</h4>
+                    <h4 className="font-bold">Hospital Hours: 12:00 PM – 3:00 PM & 6:00 PM-8:00 PM</h4>
                     <p className="text-slate-400 text-sm leading-relaxed">Available for hospital consultations, inpatient evaluation, and critical care expertise.</p>
                   </div>
                 </div>
@@ -433,7 +433,7 @@ export default function Home() {
                       Scheme No 94, Ring Road, near Teen Imli Chauraha<br />
                       Indore, Madhya Pradesh – 452001
                     </p>
-                    <p className="text-white font-bold mt-2">+91 731-3505111/p>
+                    <p className="text-white font-bold mt-2">+91 731-3505111</p>
                   </div>
                 </div>
               </div>
