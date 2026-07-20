@@ -15,20 +15,20 @@ export const CLINIC_INFO = {
   address: "111, AB Rd, near Baba Kulfi House, Shanti Kamal Kunj, Rau, Indore, Madhya Pradesh 453331",
   phone: "9752940244",
   whatsapp: "919752940244",
-  timings: "Opens 6:30 PM (Evening Consultation)",
+  timings: "Opens 9:30 AM (Morning Consultation)",
   rating: "5.0",
   reviewsCount: "56",
   experience: "10+ Years",
-  areasServed: ["Rau", "Janjeerwala Chouraha", "Silicon City", "Nearby Areas"],
+  areasServed: ["Rau", "Teen Imli Chauraha", "Silicon City", "Nearby Areas"],
   logo: "https://res.cloudinary.com/doff350cy/image/upload/v1773248737/health-plus-cliniclogo_mlc33n.jpg"
 };
 
 export const HOSPITAL_INFO = {
-  name: "Shalby Multispecialty Hospital",
-  hours: "11:00 AM – 4:00 PM",
+  name: "Vishesh Jupiter Hospital",
+  hours: "12:00 AM – 4:00 PM & 6:00 PM-8:00 PM",
   address: "R.S. Bhandari Marg, Near Janjeerwala Square, Indore, Madhya Pradesh – 452003",
-  phone: "+91 731-6677600",
-  logo: "https://res.cloudinary.com/doff350cy/image/upload/v1773248748/shalby-hospital-logo_rjjxuw.jpg"
+  phone: "+91 731-3505111",
+  logo: "https://res.cloudinary.com/doff350cy/image/upload/v1784542201/visheshhosptals_qretfv.jpg"
 };
 
 export const TRUST_SIGNALS = [
