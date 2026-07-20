@@ -10,7 +10,7 @@ export const CLINIC_INFO = {
   doctor: "Dr. Akhilesh Patidar",
   qualifications: "MBBS, MD Medicine(Mumbai), AFIC",
   role: "Physician & Critical Care Consultant",
-  hospital: "Consultant at Shalby Hospital",
+  hospital: "Consultant at Vishesh Jupiter Hospital",
   location: "Rau, Indore, Madhya Pradesh",
   address: "111, AB Rd, near Baba Kulfi House, Shanti Kamal Kunj, Rau, Indore, Madhya Pradesh 453331",
   phone: "9752940244",
