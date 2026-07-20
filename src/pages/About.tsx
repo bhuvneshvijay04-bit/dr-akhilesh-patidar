@@ -121,7 +121,7 @@ export default function About() {
             <div className="md:w-2/3">
               <h2 className="text-3xl font-bold mb-6">Hospital Association</h2>
               <p className="text-slate-400 text-lg mb-8">
-                In addition to his practice at Health Plus Clinic, Dr. Akhilesh Patidar serves as a Consultant at <strong>Shalby Hospital</strong>, bringing tertiary-level expertise to his clinic patients.
+                In addition to his practice at Health Plus Clinic, Dr. Akhilesh Patidar serves as a Consultant at <strong>Vishesh Jupiter Hospital</strong>, bringing tertiary-level expertise to his clinic patients.
               </p>
               <div className="flex flex-wrap gap-4">
                 <div className="px-6 py-3 bg-white/10 rounded-xl border border-white/10 text-sm font-bold">
