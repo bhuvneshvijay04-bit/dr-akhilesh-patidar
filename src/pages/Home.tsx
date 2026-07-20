@@ -328,7 +328,7 @@ export default function Home() {
                   <div className="w-12 h-12 rounded-xl bg-navy-900 text-white flex items-center justify-center shrink-0">
                     <Activity size={24} />
                   </div>
-                  <h3 className="text-2xl font-bold text-navy-900">Clinic Consultation (Evening)</h3>
+                  <h3 className="text-2xl font-bold text-navy-900">Clinic Consultation </h3>
                 </div>
                 {CLINIC_INFO.logo && (
                   <div className="shrink-0">
@@ -346,8 +346,8 @@ export default function Home() {
                 <div className="flex gap-4">
                   <Clock className="text-navy-900 shrink-0 mt-1" size={20} />
                   <div>
-                    <h4 className="font-bold text-navy-900">Clinic Hours: 6:30 PM – 8:30 PM</h4>
-                    <p className="text-slate-600 text-sm leading-relaxed">Ideal for working professionals and patients seeking detailed evening consultations.</p>
+                    <h4 className="font-bold text-navy-900">Clinic Hours: 9:30 AM – 11:00 AM</h4>
+                    <p className="text-slate-600 text-sm leading-relaxed">Ideal for working professionals and patients seeking detailed consultations.</p>
                   </div>
                 </div>
                 
@@ -393,7 +393,7 @@ export default function Home() {
                   <div className="w-12 h-12 rounded-xl bg-white/10 text-white flex items-center justify-center shrink-0">
                     <Building2 size={24} />
                   </div>
-                  <h3 className="text-2xl font-bold">Hospital Consultation – Shalby Hospital</h3>
+                  <h3 className="text-2xl font-bold">Hospital Consultation – Vishesh Jupiter Hospital</h3>
                 </div>
                 {HOSPITAL_INFO.logo && (
                   <div className="shrink-0">
@@ -411,7 +411,7 @@ export default function Home() {
                 <div className="flex gap-4">
                   <Clock className="text-slate-300 shrink-0 mt-1" size={20} />
                   <div>
-                    <h4 className="font-bold">Hospital Hours: 11:00 AM – 4:00 PM</h4>
+                    <h4 className="font-bold">Hospital Hours: 12:00 AM – 3:00 PM & 6:00 PM-8:00 PM</h4>
                     <p className="text-slate-400 text-sm leading-relaxed">Available for hospital consultations, inpatient evaluation, and critical care expertise.</p>
                   </div>
                 </div>
@@ -429,24 +429,24 @@ export default function Home() {
                   <div>
                     <h4 className="font-bold">Hospital Location</h4>
                     <p className="text-slate-400 text-sm leading-relaxed">
-                      Shalby Multispecialty Hospital<br />
-                      R.S. Bhandari Marg, Near Janjeerwala Square<br />
-                      Indore, Madhya Pradesh – 452003
+                      Vishesh Jupiter Hospital<br />
+                      Scheme No 94, Ring Road, near Teen Imli Chauraha<br />
+                      Indore, Madhya Pradesh – 452001
                     </p>
-                    <p className="text-white font-bold mt-2">+91 731-6677600</p>
+                    <p className="text-white font-bold mt-2">+91 731-3505111/p>
                   </div>
                 </div>
               </div>
               
               <div className="mt-10 h-[250px] rounded-2xl overflow-hidden border border-white/10 shadow-inner opacity-80">
                 <iframe 
-                  src="https://www.google.com/maps?q=Shalby%20Hospital%20Indore%20Janjeerwala%20Square&output=embed" 
+                  src="https://www.google.com/maps?q=Vishesh%20Jupiter%20Hospital%2C%20Scheme%20No%2094%2C%20Ring%20Road%2C%20Near%20Teen%20Imli%20Square%2C%20Indore&output=embed"
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
                   allowFullScreen={true} 
                   loading="lazy" 
-                  title="Shalby Hospital Location"
+                  title="Vishesh Jupiter Hospital Location"
                 ></iframe>
               </div>
             </div>
