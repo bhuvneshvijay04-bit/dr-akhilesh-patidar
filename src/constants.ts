@@ -221,6 +221,6 @@ export const FAQS = [
   },
   {
     question: "Do I need an appointment?",
-    answer: "While walk-ins are accepted during clinic hours (starting 6:30 PM), booking an appointment is recommended to minimize wait times."
+    answer: "While walk-ins are accepted during clinic hours (From 9:30 to 11:00 AM), booking an appointment is recommended to minimize wait times."
   }
 ];
